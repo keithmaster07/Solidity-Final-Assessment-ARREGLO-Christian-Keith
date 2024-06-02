@@ -100,8 +100,9 @@ To check the total supply, scroll to the bottom and click on 'Total Supply'. You
 ## Authors
 
 Christian Keith Arreglo BSIT 
-@Keith-Cat-web
+@keithmaster07
 
 # License
 
-Copyright (c) 2024 Keith-Cat-web
+Copyright (c) 2024 keithmaster07
+
